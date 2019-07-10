@@ -18,14 +18,10 @@
   "homepage": "https://github.com/millerick/example_package_2#readme",
   "dependencies": {
     "blend-promise-utils": "1.17.0",
-    "example_package_1": "git+ssh://git@github.com/millerick/example_package_1.git#v1.3.0",
-    "lodash": "4.17.11",
-    "request": "2.88.0",
-    "request-promise-native": "1.0.7"
+    "example_package_1": "git+ssh://git@github.com/millerick/example_package_1.git#v1.4.0"
   },
   "devDependencies": {
     "async": "2.6.1",
-    "aws-sdk": "2.297.0",
-    "joi": "13.6.0"
+    "aws-sdk": "2.297.0"
   }
 }
