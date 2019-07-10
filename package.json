@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/millerick/example_package_2/issues"
   },
-  "homepage": "https://github.com/millerick/example_package_2#readme"
+  "homepage": "https://github.com/millerick/example_package_2#readme",
+  "dependencies": {
+    "blend-promise-utils": "1.17.0",
+    "lodash": "4.17.11",
+    "request": "2.88.0",
+    "request-promise-native": "1.0.7"
+  }
 }
