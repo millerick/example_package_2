@@ -17,11 +17,7 @@
   },
   "homepage": "https://github.com/millerick/example_package_2#readme",
   "dependencies": {
-    "blend-promise-utils": "1.17.0",
-    "example_package_1": "git+ssh://git@github.com/millerick/example_package_1.git#v1.4.0"
-  },
-  "devDependencies": {
     "async": "2.6.1",
-    "aws-sdk": "2.297.0"
+    "example_package_1": "git+ssh://git@github.com/millerick/example_package_1.git#v1.5.0"
   }
 }
